@@ -7,10 +7,8 @@ I'm a 3<sup>rd</sup> year student of Informatics and Computing Engineering at th
 - 💼 I am seeking opportunities to collaborate with game development initiatives, as well as consulting projects.
 
 ## 🌐 Github Stats
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=domingosneto03&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&border_color=2e4058" alt="Your GitHub Stats" style="max-width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosneto03&layout=compact&theme=tokyonight&card_width=425&langs_count=8&border_color=2e4058" alt="Top Langs" style="max-width: 48%;">
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=domingosneto03&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domingosneto03&layout=compact&theme=tokyonight&card_width=300&langs_count=8)
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domingosneto03&theme=tokyonight)
 
