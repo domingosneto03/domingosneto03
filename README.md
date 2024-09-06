@@ -4,7 +4,7 @@ I'm a 3<sup>rd</sup> year student of Informatics and Computing Engineering at th
 - 🔭 I'm currently developing a card game for both PC and mobile platforms, featuring a CPU mode for single-player gameplay and an online multiplayer mode. It's name is ***El Gringo!*** 🃏
 - 🤖 I have completed projects in web development, AI, computer graphics, app development, and much more.
 - ⚡ I have completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course, as I aim to pass the Oracle Certification Exam for Java SE Developer.
-- 💼 Currently in a intership with <a href="https://boldrobotics.pt/home-page-pt/">BoldRobotics</a>
+- 💼 Currently in a internship with <a href="https://boldrobotics.pt/home-page-pt/">BoldRobotics</a>
 
 ## 🌐 Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=domingosneto03&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)
