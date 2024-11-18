@@ -1,7 +1,7 @@
 # Hi there, I'm Domingos Neto! 👋
 I'm a 3<sup>rd</sup> year student of Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">(FEUP)</a>.
 
-- 💼 Currently in an internship with <a href="https://boldrobotics.pt/home-page-pt/">BoldRobotics</a>
+- 💼 Currently in an internship with <a href="https://boldrobotics.pt">BoldRobotics</a>
 - 🔭 I'm currently developing a card game for mobile platforms, featuring a CPU mode for single-player gameplay and an online multiplayer mode. It's name is ***El Gringo!*** 🃏
 - 🤖 I have completed projects in web development, AI, computer graphics, app development, and much more.
 - ⚡ I have successfully completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course.
