@@ -2,7 +2,9 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDA5&center=true&vCenter=true&width=450&lines=Hello%2C+I%E2%80%99m+Domingos+Neto!;" alt="Typing SVG" />
 </h3>
-
+<p align="center">
+  <img src="https://github.com/domingosneto03/domingosneto03/blob/main/images/github-banner.png" alt="Domingos Neto banner" />
+</p>
 I'm a 3<sup>rd</sup> year student of Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">(FEUP)</a>.
 - 🤖 I have completed projects in web development, AI, computer graphics, app development, and much more.
 - ⚡ I have successfully completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course.
