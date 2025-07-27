@@ -5,13 +5,17 @@
 <p align="center">
   <img src="https://github.com/domingosneto03/domingosneto03/blob/main/images/github-header.png" alt="Domingos Neto banner" />
 </p>
-I'm a 3<sup>rd</sup> year student of Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">(FEUP)</a>.
+
+I have completed Bsc in Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">(FEUP)</a>.
 - 🤖 I have completed projects in web development, AI, computer graphics, app development, and much more.
 - ⚡ I have successfully completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course.
 
 ## 🌐 Github Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=domingosneto03&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domingosneto03&layout=compact&theme=tokyonight&card_width=300&langs_count=8)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domingosneto03&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosneto03&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
 
 ### Technologies & Tools
 
