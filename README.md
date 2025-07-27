@@ -13,8 +13,14 @@
 ## 🎓 About Me
 I have completed Bsc in Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">(FEUP)</a>.
 - 🤖 I have completed projects in web development, AI, computer graphics, app development, and much more.
-- ⚡ I am a Java programmer having successfully completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course.
+- ⚡ I am a Professional Java programmer having successfully completed the <a href="https://enter.tokioschool.pt/programacao-com-java/?MLL=7361&gad_source=1&gclid=Cj0KCQjwwO20BhCJARIsAAnTIVTeycLtwJCIvwVNxTRPwDJp2apiHwgU0FGgv_gok1s-SqbASiVcNXIaAtVXEALw_wcB">Tokio School</a> Java course.
 - 🚀 Growing passion for game developping, being involved in a solo game project to hit the AppStore market.
+
+<hp align="right">
+  <a href="https://www.credly.com/badges/4ca8434c-5cd9-4f9d-a65c-df2bfea17177/linked_in_profile">
+    <img src="https://github.com/domingosneto03/domingosneto03/blob/main/images/java-programming.png"/>
+  </a>
+</p>
 
 ## 💼 Experience
 - curr internship 1
