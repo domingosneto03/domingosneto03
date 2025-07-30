@@ -23,8 +23,9 @@ I have completed Bsc in Informatics and Computing Engineering at the Faculty of 
 </p>
 
 ## 💼 Experience
-- curr internship 1
-- curr internship 2
+- **Curricular Internship at BoldRobotics** *(September 2024 - January 2025)*: Company Website Development @ <a href="https://www.boldrobotics.pt">BoldRobotics</a>
+- **Curricular Internship at INESCTEC** *(February 2025 - June 2025)*: Dashboard Frontend  @ <a href="https://www.inesctec.pt">INESCTEC</a>
+
 ## 🌐 Github Stats
 
 <div align="center">
@@ -48,6 +49,15 @@ I have completed Bsc in Informatics and Computing Engineering at the Faculty of 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-DE3163?style=for-the-badge&logo=prolog&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+
 
 
 
