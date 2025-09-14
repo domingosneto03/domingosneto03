@@ -26,7 +26,7 @@
     <tr>
       <td rowspan=2>DA</td>
       <td><a href="https://github.com/domingosneto03/RoutePlanning">RoutePlanning</a></td>
-      <td>tbd</td>
+      <td>This project consists of a route planning tool using shortest path algorithms.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/PackingOptimization">PackingOptimization</a></td>
