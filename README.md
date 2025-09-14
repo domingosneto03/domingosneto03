@@ -14,6 +14,8 @@ I am Bsc in Informatics and Computing Engineering at the Faculty of Engineering 
 - 🚀 Growing passion for game developping, being involved in a solo game project to hit the AppStore market.
 - 🧑‍💻 Projects done at University can be found <a href="https://github.com/domingosneto03/domingosneto03/blob/main/university_projects.md">here</a>. Projects done at the Java Course can be found on this <a href="https://github.com/domingosneto03/Tokio">repository</a>
 
+### Credentials
+
 <hp align="right">
   <a href="https://www.credly.com/badges/4ca8434c-5cd9-4f9d-a65c-df2bfea17177/linked_in_profile">
     <img src="https://github.com/domingosneto03/domingosneto03/blob/main/images/java-programming.png"/>
