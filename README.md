@@ -1,13 +1,10 @@
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38BDA5&center=true&vCenter=true&width=450&lines=Hello%2C+I%E2%80%99m+Domingos+Neto!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38BDA5&center=true&vCenter=true&width=600&lines=Hello%2C+I%E2%80%99m+Domingos+Neto!;Bsc+in+Informatic+Engineering+@+FEUP;Game+Dev+Enthusiast;" alt="Typing SVG" />
 </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=domingosneto03&color=5D445F&style=for-the-badge" alt="profile views">
-</p>
 
 <p align="center">
-  <img src="https://github.com/domingosneto03/domingosneto03/blob/main/images/github-header.png" alt="Domingos Neto banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Domingos%20Neto&fontSize=30&fontAlignY=35&desc=Informatic%20Engineer%20|%20@%20FEUP&descAlignY=60&descAlign=50" />
 </p>
 
 ## 🎓 About Me
