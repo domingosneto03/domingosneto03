@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/PackingOptimization">PackingOptimization</a></td>
-      <td>tbd</td>
+      <td>Solving a variation of the 0/1 Knapsack Problem.</td>
     </tr>
     <tr>
       <td> LTW </td>
@@ -40,7 +40,7 @@
     <tr>
       <td> LCOM </td>
       <td><a href="https://github.com/domingosneto03/Hawktype">Hawktype</a></td>
-      <td>tbd</td>
+      <td>HawkType is a typing game inspired by Monkeytype</td>
     </tr>
     <tr>
       <td> ESOF </td>
@@ -100,7 +100,7 @@
       <td>An abstract board game to play against an AI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/domingosneto03/SupervisedLearning">SupervisedLEarning</a></td>
+      <td><a href="https://github.com/domingosneto03/SupervisedLearning">SupervisedLearning</a></td>
       <td>tbd</td>
     </tr>
   </tbody>
