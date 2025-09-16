@@ -40,7 +40,7 @@
     <tr>
       <td> LCOM </td>
       <td><a href="https://github.com/domingosneto03/Hawktype">Hawktype</a></td>
-      <td>HawkType is a typing game inspired by Monkeytype</td>
+      <td>HawkType is a typing game inspired by Monkeytype.</td>
     </tr>
     <tr>
       <td> ESOF </td>
@@ -50,35 +50,35 @@
     <tr>
       <td rowspan=2>RCOM</td>
       <td><a href="https://github.com/domingosneto03/ComputerNetworks">ComputerNetworks</a></td>
-      <td>tbd</td>
+      <td>A reliable data link layer protocol for file transmission between two computers.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/FTP">FTP</a></td>
-      <td>tbd</td>
+      <td>A FTP download client in C using sockets and a study of a local network with Linux machines and routers.</td>
     </tr>
     <tr>
       <td rowspan=2>PFL</td>
       <td><a href="https://github.com/domingosneto03/LOTGame">LOTGame</a></td>
-      <td>Abstract board game made in Prolog</td>
+      <td>Abstract board game made in Prolog.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/HaskellRoute">HaskellRoute</a></td>
-      <td>Graph network representing a country made in Haskell</td>
+      <td>Graph network representing a country made in Haskell.</td>
     </tr>
     <tr>
       <td>LBAW</td>
       <td><a href="https://github.com/domingosneto03/YourOwnBuild">YourOwnBuild</a></td>
-      <td>A web project where you can do the most of your project management</td>
+      <td>A web project where you can do the most of your project management.</td>
     </tr>
     <tr>
       <td>FSI</td>
       <td><a href="https://github.com/domingosneto03/CyberSecurity">CyberSecurity</a></td>
-      <td>A compilation of logbooks and challenges to teach the fundamentals of cybersecurity</td>
+      <td>A compilation of logbooks and challenges to teach the fundamentals of cybersecurity.</td>
     </tr>
     <tr>
       <td>COMP</td>
       <td><a href="https://github.com/domingosneto03/Compilers">Compilers</a></td>
-      <td>tbd</td>
+      <td>Building a working compiler for a simplified Java-like language.</td>
     </tr>
     <tr>
       <td>CG</td>
@@ -88,20 +88,20 @@
     <tr>
       <td rowspan=2>CPD</td>
       <td><a href="https://github.com/domingosneto03/ParallelComputing">ParallelComputing</a></td>
-      <td>tbd</td>
+      <td>Evaluation of the performance impact of memory access patterns and parallelization techniques.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/DistributedComputing">DistributedComputing</a></td>
-      <td>Secure multi-client chat server with user registration, authentication via tokens, chat rooms, and basic AI integration</td>
+      <td>Secure multi-client chat server with user registration, authentication via tokens, chat rooms, and basic AI integration.</td>
     </tr>
     <tr>
       <td rowspan=2>IA</td>
       <td><a href="https://github.com/domingosneto03/Terrace">Terrace</a></td>
-      <td>An abstract board game to play against an AI</td>
+      <td>An abstract board game to play against an AI.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/SupervisedLearning">SupervisedLearning</a></td>
-      <td>tbd</td>
+      <td>Model training of AI features to perform file evaluation.</td>
     </tr>
   </tbody>
 </table>
