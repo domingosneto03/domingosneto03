@@ -92,7 +92,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/DistributedComputing">DistributedComputing</a></td>
-      <td>tbd</td>
+      <td>Secure multi-client chat server with user registration, authentication via tokens, chat rooms, and basic AI integration</td>
     </tr>
     <tr>
       <td rowspan=2>IA</td>
