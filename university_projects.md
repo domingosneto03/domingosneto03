@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/HaskellRoute">HaskellRoute</a></td>
-      <td>tbd</td>
+      <td>Graph network representing a country</td>
     </tr>
     <tr>
       <td>LBAW</td>
@@ -73,7 +73,7 @@
     <tr>
       <td>FSI</td>
       <td><a href="https://github.com/domingosneto03/CyberSecurity">CyberSecurity</a></td>
-      <td>tbd</td>
+      <td>A compilation of logbooks and challenges to teach the fundamentals of cybersecurity</td>
     </tr>
     <tr>
       <td>COMP</td>
