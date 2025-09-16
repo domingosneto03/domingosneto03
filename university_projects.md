@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/domingosneto03/HaskellRoute">HaskellRoute</a></td>
-      <td>Graph network representing a country</td>
+      <td>Graph network representing a country made in Haskell</td>
     </tr>
     <tr>
       <td>LBAW</td>
